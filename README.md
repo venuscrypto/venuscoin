@@ -19,6 +19,14 @@ The rest is the same as Bitcoin.
 
 For more information please visit, https://venuscryto.org/
 
+Blockchain sync stuck at height 9?
+--------------------------------
+Download http://https://venuscrypto.org/venuscoind_blocks.zip and extract of files into your core wallet folder.
+
+Compiled Core Wallet
+------------------
+Linux64 - http://https://venuscrypto.org/venuscoind_compiled_linux64.zip
+
 License
 -------
 
