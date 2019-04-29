@@ -21,11 +21,11 @@ For more information please visit, https://venuscryto.org/
 
 Blockchain sync stuck at height 9?
 --------------------------------
-Download http://https://venuscrypto.org/venuscoind_blocks.zip and extract all files into your core wallet folder.
+Download https://venuscrypto.org/venuscoind_blocks.zip and extract all files into your core wallet folder.
 
 Compiled Core Wallet
 ------------------
-Linux64 - http://https://venuscrypto.org/venuscoind_compiled_linux64.zip
+Linux64 - https://venuscrypto.org/venuscoind_compiled_linux64.zip
 
 License
 -------
